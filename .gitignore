@@ -5,3 +5,11 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+/bin-int/Debug-windows-x86_64/Box2D
+/bin/Debug-windows-x86_64/Box2D
+/bin/Debug-windows-x86_64/Box2D/Box2D.idb
+/bin/Debug-windows-x86_64/Box2D/Box2D.lib
+/bin/Debug-windows-x86_64/Box2D/Box2D.pdb
+/Box2D.vcxproj
+/Box2D.vcxproj.filters
+/Box2D.vcxproj.user
